@@ -1,1 +1,1 @@
-# algoexter
+# Competitive Programming Solutions
